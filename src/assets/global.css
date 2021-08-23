@@ -1,0 +1,25 @@
+
+body {
+    background-color: rgb(247, 241, 240);
+}
+.btn-view {
+    background-color: rgb(157, 213, 235);
+    margin-right: 10px;
+}
+.btn-update {
+    background-color: rgb(152, 221, 181);
+    margin-right: 10px;
+}
+.btn-delete {
+    background-color: rgb(216, 154, 154);
+}
+.btn-add {
+    background-color: rgb(238, 198, 194);
+}
+.btn-search, .btn-reset, .btn-add, .btn-redirect {
+    border: 1px solid black;
+    margin: 20px 20px;
+}
+.btn-details {
+    font-size: 10px;
+}
